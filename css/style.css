@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+    display: block;
+    width: auto;
+}
+
+.main-nav{
+    display: block;
+    margin: 0 0 15rem 0;
+}
